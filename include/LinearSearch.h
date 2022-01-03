@@ -1,0 +1,1 @@
+int binsearch(void *elt, size_t size, void *arr, size_t length, int (*compare)(void *, void *))

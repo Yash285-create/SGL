@@ -1,0 +1,1 @@
+void heapSort(int *x,int lb,int ub);
