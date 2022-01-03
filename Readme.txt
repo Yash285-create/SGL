@@ -13,10 +13,10 @@ How to Use this Library
 
 5) Include the Library which you download.
 	#include"HeaderLibraryName.h"   //similar as folder name of the library which you download
-	visit our Documentation page htpps//SGL_Documentatio.edu
+	visit our Documentation page https://nikhil746.github.io/SGL.github.io/Doc.html
 
 6) Now use all functions and structs as per your requirement to see all the functionalities 
-	visit our Documentation page htpps//SGL_Documentatio.edu
+	visit our Documentation page https://nikhil746.github.io/SGL.github.io/Doc.html
 
 7) After the saved file.
 
